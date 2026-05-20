@@ -1,1 +1,2 @@
 echo Hello git
+Add text 1
